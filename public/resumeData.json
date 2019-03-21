@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name":"Neco Yang",
+    "occupation":"Web Developer",
+    "description":"A self-taught Full Stack by using Html/CSS/JavaScript/JQuery/React.js/MySQL/ASP.net/Java/AWS",
+    "image":"profilepic.png",
+    "bio":"A fast learner with the can-do attitude, capable of working as part of a team as well as individually",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "ok@yangnan.net",
+    "phone": "021-028-21223",
+    "address":{
+      "street":"the University of Auckland",
+      "city":"Auckland",
+      "state":"New Zealand",
+      "zip": "1010"
+    },
+    "website": "http://yangnan.net",
+    "resumedownload":"http://www.yangnan.net/myResume.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://www.facebook.com/neco.young/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/neco-yang-94526091/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/hrbyangnan/",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"HTML/CSS/JavaScript/Bootstrap/React.js/Redux/Java/C#/ASP.net/SQL/Webpack/",
+    "education":[
+      {
+        "school":"the University of Auckland",
+        "degree":"Master of Information Technology",
+        "graduated":"Jul 2018 - Mar 2020",
+        "description":"Certificate of Outstanding Schievement - Compsci 718 & Compsci 719"
+
+      },
+      {
+        "school":"Beijing University of Civil Engineering and Architecture",
+        "degree":"BSc in Electronic Information Science and Technology",
+        "graduated":"Sept 2013 - Jul 2017",
+        "description":"National Scholarship Student \n Beijing Outstanding Graduate Award \n Top 1% Student "
+
+      }
+
+    ],
+    "work":[
+      {
+        "company":"Cheetah Mobile Inc.",
+        "title":"Product Manager Internship",
+        "years":"June 2013 - September 2013 ",
+        "description":"Collected data about user behavior and gave feedback on issues to promote the product \n Learned about product operation like content construction and user maintenance"
+      }
+
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"SQL",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"ASP.net",
+        "level":"70%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"85%"
+      },
+      {
+        "name":"AWS",
+        "level":"55%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Blog",
+        "category":"Front&back end by using Java/Html/CSS/JS/Servlet/Jsp/MySQL/JQuery",
+        "image":"blog.jpg",
+        "url":"https://github.com/hrbyangnan/blog/"
+      },
+      {
+        "title":"Introduction",
+        "category":"Web development and deployment by using React.js/AWS/Sass/Html/CSS/JS/StyleShout",
+        "image":"introduction.jpg",
+        "url":"https://github.com/hrbyangnan"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"https://github.com/hrbyangnan"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"https://github.com/hrbyangnan"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Neco Yang is an excellent web developer with strong learning ability and strong execution.",
+        "user":"Sheng Fu, Cheetah Mobile CEO & Chairman"
+      }
+    ]
+  }
+}
